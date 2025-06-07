@@ -53,7 +53,27 @@ This project demonstrates how to build a basic Security Information and Event Ma
 
 ## 📸 Screenshots
 
-![Dashboard](Screenshots/Dashboard1.png)
+## 📊 Sample Dashboard
+
+This panel visualizes failed SSH login attempts by username.
+
+![Failed SSH Login Attempt](Screenshots/FailedSSHLoginAttempt.png)
+
+---
+
+## ⚠️ Brute Force Alert Triggered
+
+This alert was configured to detect more than 3 failed logins from the same IP.
+
+![Alert](Screenshots/Brute-ForceAlertTriggered.png)
+
+---
+
+## 🔐 Threat Lookup Match
+
+Enrichment using a `threat_ips.csv` lookup table to detect suspicious IPs.
+
+![Threat Lookup](Screenshots/ThreatLookupMatch.png)
 
 ---
 
