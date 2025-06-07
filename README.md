@@ -57,7 +57,7 @@ This project demonstrates how to build a basic Security Information and Event Ma
 
 This panel visualizes failed SSH login attempts by username.
 
-![Failed SSH Login Attempt](Screenshots/Failed SSH Login Attempt.png)
+![Failed SSH Login Attempt](Screenshots/FailedSSHLoginAttempt.png)
 
 ---
 
@@ -73,7 +73,7 @@ This alert was configured to detect more than 3 failed logins from the same IP.
 
 Enrichment using a `threat_ips.csv` lookup table to detect suspicious IPs.
 
-![Threat Lookup](Screenshots/Threat Lookup Match.png)
+![Threat Lookup](Screenshots/ThreatLookupMatch.png)
 
 ---
 
