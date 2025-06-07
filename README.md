@@ -65,7 +65,7 @@ This panel visualizes failed SSH login attempts by username.
 
 This alert was configured to detect more than 3 failed logins from the same IP.
 
-![Alert](Screenshots/Brute-Force Alert Triggered.png)
+![Alert](Screenshots/Brute-ForceAlertTriggered.png)
 
 ---
 
